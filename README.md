@@ -6,9 +6,9 @@ V paru: Damijan Randl in Benisa Risović.
 Namen projekta: filtriranje, urejanje in analiza (primerjava) podatkov o prometnih nesrečah v Sloveniji.
 
 Opis programa:
-•	za vnesen filter bo program zgeneriral bazo podatkov 
-•	na podlagi filtra bo program ustvaril analitiko in izpisal željene rezultate
-•	možnost dodajanja novih podatkov o nesrečah
+• za vnesen filter bo program zgeneriral bazo podatkov 
+• na podlagi filtra bo program ustvaril analitiko in izpisal željene rezultate
+• možnost dodajanja novih podatkov o nesrečah
 Za bazo podatkov smo izbrali spletni vir: https://podatki.gov.si/, kjer so zabeleženi podatki prometnih nesreč iz preteklih let.
 
 Terminski plan:

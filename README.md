@@ -7,6 +7,7 @@ Analiza prometnih nesreč
 
 **V paru:**
 > Damijan Randl 
+
 > Benisa Risović.
 
 **Namen projekta:** filtriranje, urejanje in analiza (primerjava) podatkov o prometnih nesrečah v Sloveniji.

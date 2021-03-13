@@ -29,4 +29,3 @@ Terminski plan:
 
 4.teden: Zadnji popravki 
 
-dodajam vrstico

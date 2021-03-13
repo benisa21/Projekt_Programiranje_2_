@@ -1,5 +1,5 @@
-# Projekt_Programiranje_2_
-Projektna naloga pri Programiranju 2 
+# Projekt_Programiranje_2
+**Projektna naloga pri Programiranju 2 **
 
 **Tema za seminarsko:**
 Analiza prometnih nesreč 
@@ -8,7 +8,7 @@ Analiza prometnih nesreč
 **V paru:**
 > Damijan Randl 
 
-> Benisa Risović.
+> Benisa Risović
 
 **Namen projekta:** filtriranje, urejanje in analiza (primerjava) podatkov o prometnih nesrečah v Sloveniji.
 
@@ -25,11 +25,11 @@ Za bazo podatkov sma si izbrala spletni vir: https://podatki.gov.si/, kjer so za
 
 **Terminski plan:**
 
-> 1.teden: Zbiranje in urejanje podatkov
+> 1. teden: Zbiranje in urejanje podatkov
 
-> 2.teden: Ustvarjanje koncepta programa in  osnovnih funkcij
+> 2. teden: Ustvarjanje koncepta programa in  osnovnih funkcij
 
-> 3.teden: Izdelava programa za analizo podatkov
+> 3. teden: Izdelava programa za analizo podatkov
 
-> 4.teden: Zadnji popravki 
+> 4. teden: Zadnji popravki 
 

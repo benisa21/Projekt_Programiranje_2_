@@ -1,6 +1,6 @@
 # Projekt_Programiranje_2_
-Projektna naloga pri Programiranju 2
-Tema za seminarsko: Analiza prometnih nesreč
+Projektna naloga pri Programiranju 2 \n
+Tema za seminarsko: Analiza prometnih nesreč \n
 
 V paru: Damijan Randl in Benisa Risović.
 Namen projekta: filtriranje, urejanje in analiza (primerjava) podatkov o prometnih nesrečah v Sloveniji.

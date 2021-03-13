@@ -21,7 +21,7 @@ Analiza prometnih nesreč
 > možnost dodajanja novih podatkov o nesrečah
 
 
-Za bazo podatkov sma si izbrala spletni vir: https://podatki.gov.si/, kjer so zabeleženi podatki prometnih nesreč iz preteklih let.
+Za bazo podatkov sva si izbrala spletni vir: https://podatki.gov.si/, kjer so zabeleženi podatki prometnih nesreč iz preteklih let.
 
 **Terminski plan:**
 

@@ -1,5 +1,6 @@
 # Projekt_Programiranje_2_
-Projektna naloga pri Programiranju 2 \n
+Projektna naloga pri Programiranju 2 
+
 Tema za seminarsko: Analiza prometnih nesreč \n
 
 V paru: Damijan Randl in Benisa Risović.

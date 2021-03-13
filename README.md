@@ -1,5 +1,5 @@
 # Projekt_Programiranje_2
-**Projektna naloga pri Programiranju 2 **
+**Projektna naloga pri Programiranju 2**
 
 **Tema za seminarsko:**
 Analiza prometnih nesreč 

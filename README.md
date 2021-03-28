@@ -2,7 +2,7 @@
 
 
 **Tema za seminarsko:**
-Analiza prometnih nesreč 
+Analiza prometnih nesreč v Sloveniji
 
 
 **V paru:**
@@ -18,18 +18,50 @@ Analiza prometnih nesreč
 
 > na podlagi filtra bo program ustvaril analitiko in izpisal željene rezultate
 
-> možnost dodajanja novih podatkov o nesrečah
-
-
 Za bazo podatkov sva si izbrala spletni vir: https://podatki.gov.si/, kjer so zabeleženi podatki prometnih nesreč iz preteklih let.
 
-**Terminski plan:**
+**Knjižnice, ki jih potrebuje uporabnik:**
 
-> 1. teden: Zbiranje in urejanje podatkov
+> os
 
-> 2. teden: Ustvarjanje koncepta programa in  osnovnih funkcij
+> re
 
-> 3. teden: Izdelava programa za analizo podatkov
+> requests 
 
-> 4. teden: Zadnji popravki 
+> matplotlib.pyplot
+ 
+>ephem 
+
+> urllib.requests
+
+> datetime
+
+> zipfile 
+
+> numpy
+
+> pandas
+
+> geopandas
+
+
+**Analize, ki so na voljo:**
+
+> Analiza števila prometnih nesreč
+
+> Analiza nesreč v odvisnosti od letnih časov
+
+> Analiza števila smrtnih žrtev
+
+> Analiza vrste poškodbe v odvisnosti od uporabe varnostnega pasu
+
+> Analiza najpogostejših nesreč v statističnih regijah 
+
+> Analiza povzročiteljev nesreč glede na starost
+
+> Analiza vpliva polne lune na število prometnih nesreč
+
+> Analiza pogostosti prometnih nesreč v statističnih regijah
+
+> Analiza udeležencev pozitivnih na alkotest 
 

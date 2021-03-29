@@ -45,7 +45,7 @@ Za bazo podatkov sva si izbrala spletni vir: https://podatki.gov.si/, kjer so za
 
 > Analiza vrste poškodbe v odvisnosti od uporabe varnostnega pasu
 
-> Analiza najpogostejših nesreč v statističnih regijah 
+> Analiza najpogostejših vzrokov nesreč v statističnih regijah 
 
 > Analiza povzročiteljev nesreč glede na starost
 

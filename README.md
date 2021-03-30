@@ -31,8 +31,8 @@ Za bazo podatkov sva si izbrala spletni vir: https://podatki.gov.si/, kjer so za
 - datetime
 - zipfile 
 - numpy
-- pandas
-- geopandas
+- pandas 
+- geopandas (in pripadajoče knjižnice)
 
 
 **Analize, ki so na voljo:**

@@ -22,13 +22,9 @@ Za bazo podatkov sva si izbrala spletni vir: https://podatki.gov.si/, kjer so za
 
 **Knjižnice, ki jih potrebuje uporabnik:**
 
-- os
-- re
-- requests 
 - matplotlib.pyplot
 - ephem 
 - urllib.requests
-- datetime
 - zipfile 
 - numpy
 - pandas 

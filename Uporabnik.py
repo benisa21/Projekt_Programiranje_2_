@@ -26,6 +26,7 @@ def pravilno_leto(leto, vrni=None):
 print('')
 print('POZDRAVLJENI V PROGRAMU ANALIZE PROMETNIH NESREČ!\n')
 print('Za uspešno delovanje programa, boste potrebovali naslednje knjižnice:')
+print('- requests')
 print('- Matplotlib.pyplot')
 print('- ephem')
 print('- urllib.requests')
@@ -59,7 +60,7 @@ while True:
 
             elif st_analize == '2':
                 while True:
-                    leto = input('Prosim vnesite letnico med 2009 do {}: '.format(pravilno_leto('2009', True)))
+                    leto = input('\nProsim vnesite letnico med 2009 do {}: '.format(pravilno_leto('2009', True)))
                     if pravilno_leto(leto):
                         letni_cas_nesrece_graf(os.getcwd()+ "/podatki/pn{}.csv".format(leto))
                         break
@@ -78,7 +79,7 @@ while True:
             #VARNOSTNI PAS
             elif st_analize == '4':
                 while True:
-                    leto = input('Prosim vnesite letnico med 2009 do {}: '.format(pravilno_leto('2009', True)))
+                    leto = input('\nProsim vnesite letnico med 2009 do {}: '.format(pravilno_leto('2009', True)))
                     if pravilno_leto(leto):
                         narisi_histogram(os.getcwd()+ "/podatki/pn{}.csv".format(leto), uporaba_varnostnega_pasu(os.getcwd()+ "/podatki/pn{}.csv".format(leto)))
                         break
@@ -90,7 +91,7 @@ while True:
             elif st_analize == '5':
                 nadaljevanje = False
                 while True:
-                    leto = input('Prosim vnesite letnico med 2009 do {}: '.format(pravilno_leto('2009', True)))
+                    leto = input('\nProsim vnesite letnico med 2009 do {}: '.format(pravilno_leto('2009', True)))
                     if pravilno_leto(leto):
                         TortniDiagrami_StatisticneRegije(os.getcwd()+ "/podatki/pn{}.csv".format(leto))
                         ali_regija = input('\nAli želite analizo za posamezno regijo? (DA/NE): ')
@@ -113,22 +114,28 @@ while True:
                                     regija = input('\nProsimo vnesite številko statistične regije: ')
                                     if regija == '1': regija = 'OSREDNJESLOVENSKA'
                                     elif regija == '2': regija = 'GORENJSKA'
-                                    elif regija == '3': regija = 'GORENJSKA'
-                                    elif regija == '4': regija = 'GORIŠKA'
-                                    elif regija == '5': regija = 'OBALNO-KRAŠKA'
+                                    elif regija == '3': regija = 'GORIŠKA'
+                                    elif regija == '4': regija = 'OBALNO-KRAŠKA'
+                                    elif regija == '5': regija = 'KOROŠKA'
                                     elif regija == '6': regija = 'PODRAVSKA'
                                     elif regija == '7': regija = 'POMURSKA'
                                     elif regija == '8': regija = 'POSAVSKA'
                                     elif regija == '9': regija = 'PRIMORSKO-NOTRANJSKA'
                                     elif regija == '10': regija = 'SAVINJSKA'
                                     elif regija == '11': regija = 'ZASAVSKA'
-                                    try:
-                                        TortniDiagram_VzrokovNesrec(leto, regija)
-                                        ponovitev = False
-                                        break
-                                    except:
+                                    else:
                                         print('\nVnesli ste napačno številko regije!')
                                         continue
+                                    TortniDiagram_VzrokovNesrec(leto, regija)
+                                    ponovitev = False
+                                    break
+                                    # try:
+                                    #     TortniDiagram_VzrokovNesrec(leto, regija)
+                                    #     ponovitev = False
+                                    #     break
+                                    # except:
+                                    #     print('\nVnesli ste napačno številko regije!')
+                                    #     continue
 
                             elif ali_regija == 'NE':
                                 break
@@ -144,7 +151,7 @@ while True:
             #ANALIZA POVZROČITELJEV NESREČE GLEDE NA STAROST
             elif st_analize == '6':
                 while True:
-                    leto = input('Prosim vnesite letnico med 2009 do {}: '.format(pravilno_leto('2009', True)))
+                    leto = input('\nProsim vnesite letnico med 2009 do {}: '.format(pravilno_leto('2009', True)))
                     if pravilno_leto(leto):
                         povzrocitelji_PN_hist(os.getcwd()+ "/podatki/pn{}.csv".format(leto))
                         break
@@ -164,7 +171,7 @@ while True:
             #ANALIZA POGOSTOSTI PROMETNIH NESREČ V STATISTIČNIH REGIJAH'
             elif st_analize == '8':
                 while True:
-                    leto = input('Prosim vnesite letnico med 2009 do {}: '.format(pravilno_leto('2009', True)))
+                    leto = input('\nProsim vnesite letnico med 2009 do {}: '.format(pravilno_leto('2009', True)))
                     if pravilno_leto(leto):
                         Gostota_PrometnihNesrec(os.getcwd()+ "/podatki/pn{}.csv".format(leto))
                         break
@@ -175,7 +182,7 @@ while True:
             
             elif st_analize == '9':
                 while True:
-                    leto = input('Prosim vnesite letnico med 2009 do {}: '.format(pravilno_leto('2009', True)))
+                    leto = input('\nProsim vnesite letnico med 2009 do {}: '.format(pravilno_leto('2009', True)))
                     if pravilno_leto(leto):
                         HistogramStNesrec_pozitivenAlkotest(Razmerje_PozitivenAlkotest_VseNesrece(os.getcwd()+ "/podatki/pn{}.csv".format(leto)))
                         break
@@ -193,6 +200,5 @@ while True:
     else:
         print('\nVnos je napačen. Poskusite znova:')
         continue
-
 
 

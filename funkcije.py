@@ -315,7 +315,7 @@ def Podatki_KartaSlovenije(url):
     '''
     # pridobimo shapefile slovenije iz spletne strani https://www.diva-gis.org/datadown
     # (zaenkrat zakomentirano zaradi hitrosti izpisa)
-    # prenos_datotek(url, '/karta_slovenije')
+    prenos_datotek(url, '/karta_slovenije')
     slika_slo = 'karta_slovenije/SVN_adm1.shp'
     karta_slo = gpd.read_file(slika_slo)
     # popravimo imena statističnih regij v tabeli

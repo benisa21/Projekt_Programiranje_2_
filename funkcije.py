@@ -315,7 +315,7 @@ def Podatki_KartaSlovenije(url):
     '''
     # pridobimo shapefile slovenije iz spletne strani https://www.diva-gis.org/datadown
     # (zaenkrat zakomentirano zaradi hitrosti izpisa)
-    prenos_datotek(url, '/karta_slovenije')
+    # prenos_datotek(url, '/karta_slovenije')
     slika_slo = 'karta_slovenije/SVN_adm1.shp'
     karta_slo = gpd.read_file(slika_slo)
     # popravimo imena statističnih regij v tabeli
@@ -534,7 +534,7 @@ def Gostota_PrometnihNesrec(leto):
     karta_slo['SteviloPrometnihNesrec'] = karta_slo['NAME_1'].apply(lambda x: df[x])
     # narisemo graf
     fig, ax = plt.subplots(1, 1)
-    karta_slo.plot(column='SteviloPrometnihNesrec', ax=ax, legend=True, legend_kwds={'label': 'Število prometnih nesreč v letu {}'.format(leto[-8:-4]), 'orientation': "horizontal"})
+    karta_slo.plot(column='SteviloPrometnihNesrec', ax=ax, cmap='Reds', legend=True, legend_kwds={'label': 'Število prometnih nesreč v letu {}'.format(leto[-8:-4]), 'orientation': "horizontal"})
     plt.title('Gostota prometnih nesreč v Sloveniji leta {}'.format(leto[-8:-4]))
 
     plt.show()

@@ -24,8 +24,10 @@ Analiza prometnih nesreč v Sloveniji
 - geopandas (in pripadajoče knjižnice)
 
 **Opomba:**
-Za nemoteno in hitrejše delovanje programa uporabnik potrebuje datoteko: kartaSlovenije. 
-(V funkcije.py je v 318. vrstici na voljo tudi trenutno zakomentiran ukaz, ki prenese datoteko neposredno iz spleta.)
+Za nemoteno in hitrejše delovanje programa uporabnik potrebuje datoteko: karta_slovenije. 
+(V python datoteki funkcije.py je v 318. vrstici na voljo tudi trenutno zakomentiran ukaz, ki prenese datoteko neposredno iz spleta.)
+
+
 **Analize, ki so na voljo:**
 
 > Analiza števila prometnih nesreč

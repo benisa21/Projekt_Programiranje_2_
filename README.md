@@ -59,9 +59,15 @@ Za nemoteno in hitrejše delovanje programa uporabnik potrebuje datoteko: karta_
 
 
 
+
+
 ![](slike/vzroki_nesrec.png)
 
 Za vsako regijo je na tortnem diagramu mogoče odčitati izstopajoči vzrok nesreče.
+
+
+
+
 
 
 
@@ -75,3 +81,9 @@ Intuitivno lahko upad števila smrtnih žrtev iz preteklih let do leta 2019 prip
 
 > boljšemu stanju cest
 
+
+
+
+![](slike/vpliv_polne_lune.png)
+
+Na podlagi dobljenih podatkov analize, sklepamo, da polna luna ne vpiva na vvoznikove sposobnosti, ki so potrebne za varno vožnjo.

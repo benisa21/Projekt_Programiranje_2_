@@ -59,6 +59,6 @@ Za nemoteno in hitrejše delovanje programa uporabnik potrebuje datoteko: karta_
 
 
 
-![](slike/vzroki_nesrec.png.png)
+![](slike/vzroki_nesrec.png)
 
 Za vsako regijo je na tortnem diagramu mogoče odčitati izstopajoči vzrok nesreče.

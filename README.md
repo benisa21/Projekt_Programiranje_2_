@@ -57,4 +57,8 @@ Za nemoteno in hitrejše delovanje programa uporabnik potrebuje datoteko: karta_
 
 
 
+
+
 ![](slike/vzroki_nesrec_po_regijah.png)
+
+V številnih regijah je izstopajoči razlog prometne nesreče vseesplošen premik z vozilom.

@@ -56,11 +56,9 @@ Za nemoteno in hitrejše delovanje programa uporabnik potrebuje datoteko: karta_
  Skladno s pričakovanji, največ prometa, posledično tudi prometnih nesreč je v dveh urbanih središčih države: Ljubljana in Maribor.
 
 
-<img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/slike/vzroki_nesrec.png" width="700" height="550" />
+<img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/vzroki_nesrec.png" width="700" height="550" />
 
 Za vsako regijo je na tortnem diagramu mogoče odčitati izstopajoči vzrok nesreče.
-
-
 
 
 

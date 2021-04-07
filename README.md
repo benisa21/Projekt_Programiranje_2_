@@ -52,6 +52,6 @@ Za bazo podatkov sva si izbrala spletni vir: https://podatki.gov.si/, kjer so za
 
 > Analiza udeležencev pozitivnih na alkotest 
 
-# Happy Christmas!
+# Gostota!
 
-![Happy Christmas](gostota prometnih nesrec.png)
+![gostota prometnih nesreč](gostota prometnih nesrec.png)

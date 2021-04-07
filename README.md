@@ -52,7 +52,11 @@ Za bazo podatkov sva si izbrala spletni vir: https://podatki.gov.si/, kjer so za
 
 > Analiza udeležencev pozitivnih na alkotest 
 
-!Komentarji analiz:
+# Komentarji analiz:
 
 ![](slike/gostota_prometnih_nesrec.png)
+
+ Največja zgostitev števila prometnih nesreč je v Osrednjeslovenski regiji.
+ Skladno s pričakovanji, največ prometa, posledično tudi prometnih nesreč je v dveh urbanih središčih države: Ljubljana in Maribor.
+
 

@@ -50,21 +50,23 @@ Za nemoteno in hitrejše delovanje programa uporabnik potrebuje datoteko: karta_
 
 # Komentarji analiz:
 
+
+> Analiza pogostosti prometnih nesreč v statističnih regijah
+
 <img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/gostota_prometnih_nesrec.png" width="700" height="500" />
 
  Največja zgostitev števila prometnih nesreč je v Osrednjeslovenski regiji.
  Skladno s pričakovanji, največ prometa, posledično tudi prometnih nesreč je v dveh urbanih središčih države: Ljubljana in Maribor.
 
 
+> Analiza najpogostejših vzrokov nesreč v statističnih regijah 
+
 <img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/vzroki_nesrec.png" width="750" height="500" />
 
 Za vsako regijo je na tortnem diagramu mogoče odčitati izstopajoči vzrok nesreče.
 
 
-
-
-
-
+> Analiza števila smrtnih žrtev
 
 <img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/smrtne_zrtve.png" width="600" height="400" />
 
@@ -78,7 +80,7 @@ Intuitivno lahko upad števila smrtnih žrtev iz preteklih let do leta 2019 prip
 
 
 
-
-![](slike/vpliv_polne_lune.png)
+> Analiza vpliva polne lune na število prometnih nesreč
+<img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/vpliv_polne_lune.png" width="600" height="400" />
 
 Na podlagi dobljenih podatkov analize, sklepamo, da polna luna ne vpiva na vvoznikove sposobnosti, ki so potrebne za varno vožnjo.

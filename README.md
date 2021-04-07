@@ -50,14 +50,13 @@ Za nemoteno in hitrejše delovanje programa uporabnik potrebuje datoteko: karta_
 
 # Komentarji analiz:
 
-<img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/gostota_prometnih_nesrec.png" width="700" height="600" />
+<img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/gostota_prometnih_nesrec.png" width="700" height="550" />
 
  Največja zgostitev števila prometnih nesreč je v Osrednjeslovenski regiji.
  Skladno s pričakovanji, največ prometa, posledično tudi prometnih nesreč je v dveh urbanih središčih države: Ljubljana in Maribor.
 
 
-
-![](slike/vzroki_nesrec.png)
+<img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/slike/vzroki_nesrec.png" width="700" height="550" />
 
 Za vsako regijo je na tortnem diagramu mogoče odčitati izstopajoči vzrok nesreče.
 

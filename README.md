@@ -12,14 +12,6 @@ Analiza prometnih nesreč v Sloveniji
 
 **Namen projekta:** filtriranje, urejanje in analiza (primerjava) podatkov o prometnih nesrečah v Sloveniji.
 
-**Opis programa:**
-
-> za vnesen filter bo program zgeneriral bazo podatkov 
-
-> na podlagi filtra bo program ustvaril analitiko in izpisal željene rezultate
-
-Za bazo podatkov sva si izbrala spletni vir: https://podatki.gov.si/, kjer so zabeleženi podatki prometnih nesreč iz preteklih let.
-
 **Knjižnice, ki jih potrebuje uporabnik:**
 
 - requests
@@ -31,7 +23,9 @@ Za bazo podatkov sva si izbrala spletni vir: https://podatki.gov.si/, kjer so za
 - pandas 
 - geopandas (in pripadajoče knjižnice)
 
-
+**Opomba:**
+Za nemoteno in hitrejše delovanje programa uporabnik potrebuje datoteko: kartaSlovenije. 
+(V funkcije.py je v 318. vrstici na voljo tudi trenutno zakomentiran ukaz, ki prenese datoteko neposredno iz spleta.)
 **Analize, ki so na voljo:**
 
 > Analiza števila prometnih nesreč

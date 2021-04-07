@@ -62,3 +62,16 @@ Za nemoteno in hitrejše delovanje programa uporabnik potrebuje datoteko: karta_
 ![](slike/vzroki_nesrec.png)
 
 Za vsako regijo je na tortnem diagramu mogoče odčitati izstopajoči vzrok nesreče.
+
+
+
+![](slike/smrtne_zrtve.png)
+
+Intuitivno lahko upad števila smrtnih žrtev iz preteklih let do leta 2019 pripišemo:
+
+> varnejšim in bolj opremljenim vozilom
+
+> hitrejši intervenciji nujne medicinske pomoči na cesti
+
+> boljšemu stanju cest
+

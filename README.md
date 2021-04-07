@@ -57,6 +57,7 @@ Za nemoteno in hitrejše delovanje programa uporabnik potrebuje datoteko: karta_
 
 
 
+<img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/gostota_prometnih_nesrec.png" width="200" height="400" />
 
 
 

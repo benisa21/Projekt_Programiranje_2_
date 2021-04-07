@@ -56,3 +56,5 @@ Za nemoteno in hitrejše delovanje programa uporabnik potrebuje datoteko: karta_
  Skladno s pričakovanji, največ prometa, posledično tudi prometnih nesreč je v dveh urbanih središčih države: Ljubljana in Maribor.
 
 
+
+![](slike/vzroki_nesrec_po_regijah.png)

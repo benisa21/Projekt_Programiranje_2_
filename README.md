@@ -54,4 +54,4 @@ Za bazo podatkov sva si izbrala spletni vir: https://podatki.gov.si/, kjer so za
 
 # Gostota!
 
-![gostota prometnih nesreč](gostota prometnih nesrec.png)
+![](slike/gostota_prometnih_nesrec.png)

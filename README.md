@@ -53,5 +53,5 @@ Za bazo podatkov sva si izbrala spletni vir: https://podatki.gov.si/, kjer so za
 > Analiza udeležencev pozitivnih na alkotest 
 
 **Komentarji analiz:**
-
+❮img src="slike/gostota_prometnih_nesrec.png" width="100" ❯
 ![](slike/gostota_prometnih_nesrec.png)

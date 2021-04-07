@@ -335,7 +335,7 @@ def TortniDiagrami_StatisticneRegije(leto):
     # narisemo graf slovenije
     fig, ax = plt.subplots(figsize=[12,8])
     graf = karta_slo.plot(ax = ax, color='green', edgecolor = 'black')
-    graf.set_title('Delež vzrokov nesreč po regijah Slovenije', fontsize=22)
+    graf.set_title('Delež vzrokov nesreč po regijah Slovenije v letu {}'.format(leto[-8:-4]), fontsize=22)
 
     colors = ['red', 'blue', 'green', 'yellow', 'orange', 'purple', 'silver', 'pink', 'brown', 'gold', 'cyan']
     stat_reg = DodajStatisticnoRegijo(leto)

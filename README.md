@@ -68,7 +68,7 @@ Za vsako regijo je na tortnem diagramu mogoče odčitati izstopajoči vzrok nesr
 
 > Analiza števila smrtnih žrtev
 
-<img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/smrtne_zrtve.png" width="1700" height="400" />
+<img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/smrtne_zrtve.png" width="600" height="400" />
 
 Intuitivno lahko upad števila smrtnih žrtev iz preteklih let do leta 2019 pripišemo:
 
@@ -81,6 +81,6 @@ Intuitivno lahko upad števila smrtnih žrtev iz preteklih let do leta 2019 prip
 
 
 > Analiza vpliva polne lune na število prometnih nesreč
-<img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/vpliv_polne_lune.png" width="600" height="400" />
+<img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/vpliv_polne_lune.png" width="1700" height="400" />
 
 Na podlagi dobljenih podatkov analize, sklepamo, da polna luna ne vpiva na vvoznikove sposobnosti, ki so potrebne za varno vožnjo.

@@ -25,7 +25,7 @@ Analiza prometnih nesreč v Sloveniji
 
 **Opomba:**
 Za nemoteno in hitrejše delovanje programa uporabnik potrebuje datoteko: karta_slovenije. 
-(V python datoteki funkcije.py je v 318. vrstici na voljo tudi trenutno zakomentiran ukaz, ki prenese datoteko neposredno iz spleta.)
+(V python datoteki funkcije.py je v 318. vrstici na voljo tudi trenutno zakomentiran ukaz, ki prenese datoteko neposredno iz spleta.) <br />
 
 
 **Analize, ki so na voljo:**

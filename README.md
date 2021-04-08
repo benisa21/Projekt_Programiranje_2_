@@ -62,7 +62,8 @@ Za nemoteno in hitrejše delovanje programa uporabnik potrebuje datoteko: karta_
 
 > Analiza najpogostejših vzrokov nesreč v statističnih regijah 
 <img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/vzroki_nesrec.png" width="750" height="500" />
-Za vsako regijo je na tortnem diagramu mogoče odčitati izstopajoči vzrok nesreče. <br />
+Za vsako regijo je na tortnem diagramu mogoče odčitati izstopajoči vzrok nesreče. <br /> <br />
+
 <br />
 
 

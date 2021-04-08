@@ -55,7 +55,8 @@ Za nemoteno in hitrejše delovanje programa uporabnik potrebuje datoteko: karta_
 > Analiza pogostosti prometnih nesreč v statističnih regijah
 <img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/gostota_prometnih_nesrec.png" width="700" height="500" />
  Največja zgostitev števila prometnih nesreč je v Osrednjeslovenski regiji.
- Skladno s pričakovanji, največ prometa, posledično tudi prometnih nesreč je v dveh urbanih središčih države: Ljubljana in Maribor. <br />
+ Skladno s pričakovanji, največ prometa, posledično tudi prometnih nesreč je v dveh urbanih središčih države: Ljubljana in Maribor. <br /> <br />
+ 
  <br />
 
 

@@ -46,10 +46,10 @@ Za nemoteno in hitrejše delovanje programa uporabnik potrebuje datoteko: karta_
 
 > Analiza pogostosti prometnih nesreč v statističnih regijah
 
-> Analiza udeležencev pozitivnih na alkotest 
+> Analiza udeležencev pozitivnih na alkotest
 
-# Komentarji analiz:
 
+**Komentarji analiz:**
 
 > Analiza pogostosti prometnih nesreč v statističnih regijah
 

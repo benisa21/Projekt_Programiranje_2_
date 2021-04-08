@@ -72,11 +72,11 @@ Za vsako regijo je na tortnem diagramu mogoče odčitati izstopajoči vzrok nesr
 
 Intuitivno lahko upad števila smrtnih žrtev iz preteklih let do leta 2019 pripišemo:
 
-> varnejšim in bolj opremljenim vozilom
+- varnejšim in bolj opremljenim vozilom
 
-> hitrejši intervenciji nujne medicinske pomoči na cesti
+- hitrejši intervenciji nujne medicinske pomoči na cesti
 
-> boljšemu stanju cest
+- boljšemu stanju cest <br />
 
 
 

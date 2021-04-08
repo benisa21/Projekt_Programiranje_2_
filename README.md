@@ -68,7 +68,7 @@ Za vsako regijo je na tortnem diagramu mogoče odčitati izstopajoči vzrok nesr
 
 > Analiza števila smrtnih žrtev
 
-<img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/smrtne_zrtve.png" width="1000" height="400" />
+<img src="https://github.com/benisa21/Projekt_Programiranje_2_/blob/main/slike/smrtne_zrtve.png" width="1400" height="400" />
 
 Intuitivno lahko upad števila smrtnih žrtev iz preteklih let do leta 2019 pripišemo:
 
